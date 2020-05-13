@@ -144,7 +144,13 @@ A la larga la realidad expone que los gurúes tech son más huecos de lo imagina
 
 ---
 ### DescuidAR - Certificado Único de Circulación
+
 Autor: **Silvio Messina**
+
 Web: [silviomessina.com](https://silviomessina.com)
+
 Twitter: [twitter.com/smessina_](https://twitter.com/smessina_)
-GitHub: [github.com/smessina](https://github.com/smessina)
+
+GitHub: [github.com/smessina/DescuidAR](https://github.com/smessina/DescuidAR)
+
+Sugerencias y otros aportes: https://github.com/smessina/DescuidAR/issues
